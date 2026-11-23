@@ -85,7 +85,5 @@ plt.axis('off')
 
 <img width="361" height="487" alt="image" src="https://github.com/user-attachments/assets/82474278-29bc-48a7-9b93-f93cf247d6e3" />
 
-
 ## Result
-
 Thus, the lane detection pipeline is successfully implemented by completing the missing code sections. The system detects and highlights lane lines effectively.
